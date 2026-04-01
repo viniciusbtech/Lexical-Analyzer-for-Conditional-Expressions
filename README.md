@@ -1,6 +1,10 @@
 # Lexical-Analyzer-for-Conditional-Expressions
 This project implements a lexical analyzer (lexer) in Python to recognize tokens from a conditional statements language.
 
+<img width="367" height="137" alt="image" src="https://github.com/user-attachments/assets/7c78b251-33df-49aa-9a26-a4d39e629419" />
+
+
+
 # 🔹 Conditional Statements Lexer in Python
 
 This project implements a **lexical analyzer (lexer)** in Python to recognize tokens from a conditional statements language.
